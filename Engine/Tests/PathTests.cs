@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Xunit;
 
-namespace DotNetCoreKoans.Engine.Tests
+namespace LinqKoans.Engine.Tests
 {
     public class PathTests : TestBase
     {

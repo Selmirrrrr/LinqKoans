@@ -4,7 +4,7 @@ using System.Reflection;
 using Microsoft.DotNet.Cli.Utils;
 using Xunit.Sdk;
 
-namespace DotNetCoreKoans.Engine
+namespace LinqKoans.Engine
 {
     public class Step
     {

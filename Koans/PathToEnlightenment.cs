@@ -1,7 +1,7 @@
 using System;
-using DotNetCoreKoans.Engine;
+using LinqKoans.Engine;
 
-namespace DotNetCoreKoans.Koans
+namespace LinqKoans.Koans
 {
     public class PathToEnlightenment : Path
     {

@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace DotNetCoreKoans.Engine.Tests
+namespace LinqKoans.Engine.Tests
 {
     public class SensiTests
     {

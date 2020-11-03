@@ -1,8 +1,8 @@
 using System.Linq;
 using System.Reflection;
-using DotNetCoreKoans.Engine.Tests.Fakes;
+using LinqKoans.Engine.Tests.Fakes;
 
-namespace DotNetCoreKoans.Engine.Tests
+namespace LinqKoans.Engine.Tests
 {
     public class TestBase
     {
