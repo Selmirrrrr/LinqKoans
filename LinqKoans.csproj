@@ -1,18 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Description>A set of Koans to teach the C# language on .NET Core.</Description>
-    <VersionPrefix>3.1.0</VersionPrefix>
+    <Description>A simple, fun, and interactive way to learn the LINQ.</Description>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <NoWarn>$(NoWarn);CS0649;CS0162;CS0168;CS0184;CS0219;xUnit2015;xUnit2013</NoWarn>
-    <AssemblyName>LinqKoans</AssemblyName>
-    <OutputType>Exe</OutputType>
-    <PackageId>LinqKoans</PackageId>
-    <PackageTags>C#;Koans;Learning</PackageTags>
-    <PackageLicenseUrl>https://github.com/NotMyself/LinqKoans/blob/master/LICENSE</PackageLicenseUrl>
-    <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/NotMyself/LinqKoans</RepositoryUrl>
-    <ReleaseVersion>2.1.0.0</ReleaseVersion>
   </PropertyGroup>
+  
   <ItemGroup>
     <PackageReference Include="microsoft.dotnet.cli.utils" Version="2.0.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
