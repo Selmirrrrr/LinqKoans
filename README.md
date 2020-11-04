@@ -1,5 +1,5 @@
 # LINQ Koans
-The LINQ (Language Integrated Query) Koans will walk you along the path to knowledge in order to learn LINQ with C# on .NET Core. The goal is to learn principal LINQ extensions like `.Where()`, `.Select()`, `.GroupBy()` etc.
+The LINQ (Language Integrated Query) Koans will walk you along the path to knowledge in order to learn LINQ with C# on .NET Core. The goal is to learn principal LINQ operators and functions like `.Where()`, `.Select()`, `.GroupBy()`, `.Count()` etc.
 
 This project is a fork from [DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) by [NotMyself(Bobby Johnson)](https://github.com/NotMyself), do not hsitate to have a look into this project, even if you're a expernecied C# developer you might leatn something new. All kudos to @NotMyself.
 
