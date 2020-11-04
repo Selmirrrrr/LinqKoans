@@ -7,9 +7,12 @@ namespace LinqKoans.Koans
     {
         public PathToEnlightenment()
         {
-            Types = new Type[] {
+            Types = new Type[]
+            {
+                typeof(ListsKoan),
+                typeof(RangesKoan),
+                typeof(LinqKoan),
             };
-
         }
     }
 }
