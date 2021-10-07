@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <Description>A simple, fun, and interactive way to learn the LINQ.</Description>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <NoWarn>$(NoWarn);CS0649;CS0162;CS0168;CS0184;CS0219;xUnit2015;xUnit2013</NoWarn>
   </PropertyGroup>
   
