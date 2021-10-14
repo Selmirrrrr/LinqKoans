@@ -58,7 +58,7 @@ namespace LinqKoans.Koans
 
             var method = _cities.Where(c => c.Contains("s")).Select(c => c.ToUpperInvariant());
 
-            query.ShouldBeSameAs(method);
+            query.ShouldBe(method);
         }
 
         [Step(3)]
